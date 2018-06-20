@@ -1,0 +1,114 @@
+body
+{
+	font-family: Sans-serif ;
+	font-size: 15px;
+	background-color: #C70039;
+}
+.active{
+	color: #FF5733;
+}
+
+/*-----------------------NAVBAR-------------------------------------------*/
+
+.navbar ul{
+
+	list-style-type: none;
+	margin : 7px 0 0 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: ; 
+	float: right;
+}
+
+.branding a{
+	color: white;
+	display: block;
+	float: left;
+	text-align : center;
+	text-decoration: none;
+}
+.navbar li{
+	float: left;
+}
+.navbar li a{
+	color: white;
+	display: block;
+	color: ;
+	text-align : center;
+	margin: 0 0 0 0;
+	padding: 14px 16px;
+	text-decoration: none;
+}
+.navbar a:hover{
+	color: #FF5733;
+}
+.contain{
+	min-height: 60px;
+	background-color: #141414;
+}
+
+.Jumbotron{
+	min-height: 500px;
+}
+
+.col-sm-9{
+	margin-top: 100px;
+}
+
+
+
+/*-----------------------------------------------------*/
+#About{
+	background-color: #571845 ;
+}
+.txtwhite{
+	color: white;
+}
+.aboutContainer{
+	min-height: 50%;
+	max-width: 60%;
+	margin: 0 25% 0 10%;
+}
+
+
+
+/*-----------------------------------------------------*/
+
+#Projects{
+	background-color: #900C3E;
+}
+
+
+
+.projectContainer{
+	min-height: 20%;
+	max-width: 60%;
+	margin: 0 10% 0 25%;
+}
+
+
+
+/*-----------------------------------------------------*/
+#Interest{
+	background-color:#FF5733 ;
+}
+.interestContainer{
+	min-height: 30%;
+	max-width: 60%;
+	margin: 0 25% 0 10%;
+}
+
+.bgcolor-center-1{
+	text-align: center;
+	background-color: #FFC300;
+}
+.bgcolor-center-2{
+	text-align: center;
+	background-color: #571845;
+}
+
+
+.footer{
+	background-color: black;
+	text-align: center;
+}
